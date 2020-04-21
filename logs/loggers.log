@@ -1,0 +1,42 @@
+[2020-04-21T03:43:12.549] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T03:43:17.803] [INFO] loggers - MongoDB Connected
+[2020-04-21T03:49:22.358] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T03:49:25.574] [INFO] loggers - MongoDB Connected
+[2020-04-21T03:50:15.120] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T03:50:18.345] [INFO] loggers - MongoDB Connected
+[2020-04-21T04:03:44.192] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T04:03:46.694] [INFO] loggers - MongoDB Connected
+[2020-04-21T04:03:58.002] [INFO] loggers - ==userToken fetched==
+[2020-04-21T04:03:58.750] [INFO] loggers - ====User Profile fetched====
+[2020-04-21T04:03:59.164] [INFO] loggers - === All Blogs fetched ====
+[2020-04-21T04:04:00.498] [INFO] loggers - ====User Profile fetched====
+[2020-04-21T04:04:00.825] [INFO] loggers - === All Blogs fetched ====
+[2020-04-21T04:04:01.774] [INFO] loggers - ====User Profile fetched====
+[2020-04-21T04:04:02.586] [INFO] loggers - ====User Profile fetched====
+[2020-04-21T04:04:03.046] [INFO] loggers - All users data fetched
+[2020-04-21T04:04:04.068] [INFO] loggers - === All Blogs fetched ====
+[2020-04-21T12:09:41.305] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T12:09:43.670] [INFO] loggers - MongoDB Connected
+[2020-04-21T12:34:27.803] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T12:34:29.587] [INFO] loggers - MongoDB Connected
+[2020-04-21T12:34:46.385] [INFO] loggers - ==userToken fetched==
+[2020-04-21T12:34:46.823] [INFO] loggers - ====User Profile fetched====
+[2020-04-21T12:34:47.236] [INFO] loggers - === All Blogs fetched ====
+[2020-04-21T12:34:49.075] [INFO] loggers - ====User Profile fetched====
+[2020-04-21T12:34:49.285] [INFO] loggers - === All Blogs fetched ====
+[2020-04-21T12:34:50.741] [INFO] loggers - ====User Profile fetched====
+[2020-04-21T12:34:51.810] [INFO] loggers - ==User blogs fetched==
+[2020-04-21T12:35:10.520] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T12:35:12.629] [INFO] loggers - MongoDB Connected
+[2020-04-21T12:35:21.848] [INFO] loggers - Username not registered
+[2020-04-21T13:53:15.540] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T13:53:17.061] [INFO] loggers - MongoDB Connected
+[2020-04-21T13:53:49.872] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T13:53:51.273] [INFO] loggers - MongoDB Connected
+[2020-04-21T14:01:08.024] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T14:01:09.536] [INFO] loggers - MongoDB Connected
+[2020-04-21T14:03:40.214] [INFO] loggers - ==userToken fetched==
+[2020-04-21T14:03:40.717] [INFO] loggers - ====User Profile fetched====
+[2020-04-21T14:03:40.927] [INFO] loggers - === All Blogs fetched ====
+[2020-04-21T14:06:25.645] [INFO] loggers - Server listening at port: 5000
+[2020-04-21T14:06:27.234] [INFO] loggers - MongoDB Connected
